@@ -11,6 +11,7 @@
         {
             font-size: 2rem;
         }
+
     </style>
 </head>
 <body>
@@ -26,5 +27,6 @@
         echo "${nome} <h1> ${sobrenome} </h1>" . $numero . "<br>";
         echo $numero . "<p> " . $nome . " " . $sobrenome . "</p>";
     ?>
+    
 </body>
 </html>
