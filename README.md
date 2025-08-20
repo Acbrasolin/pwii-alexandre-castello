@@ -72,3 +72,5 @@ O último passo requer que rode as _migrations_ para que seja criado um banco de
     php artisan migrate
 
 Pronto! Após esses passos, seu projeto estará funcionando corretamente.
+
+## Creditos 191Pedro
