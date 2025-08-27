@@ -79,3 +79,6 @@ Para Rodar a aplicação bastar escrever o código:
 
     composer run dev
 
+##Automoção 
+
+Um arquivo chamado configurações-laravel está nesse repositório onde fara todos esses comandos automaticamente, a única necessidade será de criar o arquivo .env
