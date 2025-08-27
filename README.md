@@ -73,3 +73,9 @@ O último passo requer que rode as _migrations_ para que seja criado um banco de
 
 Pronto! Após esses passos, seu projeto estará funcionando corretamente.
 
+## Para rodar a aplicação
+
+Para Rodar a aplicação bastar escrever o código:
+
+    composer run dev
+
