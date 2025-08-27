@@ -1,0 +1,14 @@
+o Laravel é uma estrutura que chamamos de MVC (model view controller)
+
+php artisan make:view teste (comando para criar uma nova view)
+após isso é apenas criar um método de rota para linkar a view 
+exemplo :
+Route::get('/arquivoteste', function () {
+    return view('teste');
+});
+
+exemplo 
+
+php artisan é um código onde te dá diversos comandos para ajuda.
+
+CLI São ajudantes que contribuem te ajudando a criar arquivos, pastas e projetos.
