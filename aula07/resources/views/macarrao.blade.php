@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Laravel é bizarro</h1> 
+    <h1>olá</h1>
+    <p>gosto de macarrão</p>
 </body>
 </html>
